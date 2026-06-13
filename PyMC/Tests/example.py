@@ -1,5 +1,5 @@
 # Minecraft 26.1.2 + Python example
-from functions import *
+from PyMC.functions import *
 
 # Initialize the class
 HOST = "localhost"

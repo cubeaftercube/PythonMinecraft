@@ -1,5 +1,5 @@
 import math
-from functions import *
+from PyMC.functions import *
 
 # Initialize the class
 HOST = "localhost"

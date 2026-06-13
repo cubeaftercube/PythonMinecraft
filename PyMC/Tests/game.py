@@ -1,4 +1,4 @@
-from functions import *
+from PyMC.functions import *
 import time
 import random  # Python's built-in random module to calculate drop offsets
 

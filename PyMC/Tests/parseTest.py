@@ -1,5 +1,5 @@
-from functions import *
-from parse_func import parse_minecraft_data
+from PyMC.functions import *
+from PyMC.parse_func import parse_minecraft_data
 
 HOST = "localhost"
 PORT = 25575
