@@ -2,3 +2,6 @@
 !PyMC
 !server/server.properties
 !.gitignore
+!LICENSE
+!requirements.txt
+!README.md
